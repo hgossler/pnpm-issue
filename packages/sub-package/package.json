@@ -1,0 +1,11 @@
+{
+  "name": "pnpm-issue-sub-package",
+  "description": "Minimal example for pnpm issue",
+  "private": true,
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "pino": "^5.11.1",
+    "pino-pretty": "^2.6.1"
+  }
+}
